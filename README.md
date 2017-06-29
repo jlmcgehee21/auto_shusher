@@ -36,4 +36,10 @@ sure you can find cheaper generic alternatives via Alibab or EBay.
 ### 3D Printing the Enclosure
 
 ## What about my fancy noise-cancelling headset?
+Your noise-cancelling headset _is_ much smarter than this thing. However, it
+doesn't completely block all the loud noises around you.  It's also more
+expensive, and a lot less fun and flexible.
+
+The AutoShusher works with _any_ headset headset at all, and was a fun and easy
+excuse for me to use my soldering iron and 3D printer.
 
